@@ -67,6 +67,6 @@ Experimental results demonstrated that the server effectively handles concurrent
 
 <p align="center">
 Developed by <a href="https://github.com/Francesco-Mon">Francesco Montecucco</a> & <a href="https://github.com/Frankesko">Francesco Bartolomeo</a><br>
-University of Messina
+ University of Messina
 </p>
 
